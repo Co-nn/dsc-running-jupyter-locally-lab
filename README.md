@@ -1,5 +1,7 @@
 # Running Jupyter Notebooks Locally - Lab
 
+new line of text
+
 ## Introduction
 Now that we have had an introduction to the command line, have seen how to clone GitHub repos to our local machine (our computer), and have seen some common Jupyter Notebook operations, it's time to put our skills to the test!
 
@@ -28,7 +30,7 @@ Assign the below variable `number` to the number `42` by replacing `None` with `
 
 
 ```python
-number = None
+number = 42
 number
 ```
 
@@ -36,7 +38,7 @@ Next, like the above, reassign the `flatiron_mantra` variable with the string `"
 
 
 ```python
-flatiron_mantra = None
+flatiron_mantra = "flatiron_mantra"
 flatiron_mantra
 ```
 
